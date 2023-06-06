@@ -2,7 +2,7 @@
 This is a group assignment done under the module EN2074 Communication Systems Engineering, Semester 4, Department of Electronic &amp; Telecommunication Engineering, University of Moratuwa, Sri Lanka.
 The task description of the assignment is as follows.
 
-Task 1
+Task 1:
 In Task I, you are expected to generate eye diagrams for baseband 2-PAM signaling with different pulse shaping filters.
   1. Generate an impulse train representing BPSK symbols.
   2. Obtain transmit signal by convolving the impulse train with a pulse shaping filter where the impulse response is a sinc function.
@@ -10,10 +10,10 @@ In Task I, you are expected to generate eye diagrams for baseband 2-PAM signalin
   4. Repeat 1-3 for raised cosine pulse shaping filters with roll-off factor 0.5 and 1.
   5. Compare the robustness of the system with respect to noise, sampling tine and synchronization errors.
 
-Task 2
+Task 2:
 In Task 2, you are required to repeat Task 1, in the presence of additive white Gaussian noise (AWGN). To generate noise, use ‘randn’ function. Set the variance of noise such that 𝐸𝑏𝑁0=10 dB, where 𝐸𝑏 is the average bit energy and 𝑁0 is the noise power spectral density.
 
-Task 3
+Task 3:
 For Task 3, you will design a zero-forcing (ZF) equalizer for a 3-tap multipath channel. Please follow the following steps for Task 3.
   1. Generate a random binary sequence.
   2. 2-PAM modulation - bit 0 represented as -1 and bit 1 represented as +1. You can ignore pulse shaping here. Assume you are transmitting impulses.
