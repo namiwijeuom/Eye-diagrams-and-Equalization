@@ -9,7 +9,7 @@ In Task I, you are expected to generate eye diagrams for baseband 2-PAM signalin
   3. Generate the eye diagram of the transmit signal.
   4. Repeat 1-3 for raised cosine pulse shaping filters with roll-off factor 0.5 and 1.
   5. Compare the robustness of the system with respect to noise, sampling tine and synchronization errors.
-  6. 
+
 Task 2
 In Task 2, you are required to repeat Task 1, in the presence of additive white Gaussian noise (AWGN). To generate noise, use ‘randn’ function. Set the variance of noise such that 𝐸𝑏𝑁0=10 dB, where 𝐸𝑏 is the average bit energy and 𝑁0 is the noise power spectral density.
 
@@ -28,8 +28,8 @@ For Task 3, you will design a zero-forcing (ZF) equalizer for a 3-tap multipath 
   11. Why there is a discrepancy between the AWGN channel BER and the ZF equalized multipath channel. Explain your results referring to the design of the ZF equalizer.
   12. Comment on the BER performance if binary orthogonal signaling was used instead of BPSK.
 
-MATLAB 2021 software was used to complete this assignment.
+* MATLAB 2021 software was used to complete this assignment.
 
-Group Members
-* A.A.H Prammuditha
-* W.L.N.K Wijetunga
+  * Group Members
+    * A.A.H Pramuditha
+    * W.L.N.K Wijetunga
