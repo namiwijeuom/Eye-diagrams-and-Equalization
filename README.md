@@ -30,6 +30,6 @@ For Task 3, you will design a zero-forcing (ZF) equalizer for a 3-tap multipath 
 
 * MATLAB 2021 software was used to complete this assignment.
 
-  * Group Members
-    * A.A.H Pramuditha
-    * W.L.N.K Wijetunga
+* Group Members
+  * A.A.H Pramuditha
+  * W.L.N.K Wijetunga
